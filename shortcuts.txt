@@ -1,0 +1,3 @@
+control + space for getting the options
+control + K + C for commenting 
+control + shift + >/< to select the text on the line 
