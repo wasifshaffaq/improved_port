@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 } */
+body{
+    background-image: linear-gradient(to left, #4A2511, #5E2c04, #9A7B4F);
+}
 .hero{
     background-color:hsl(0, 19%, 17%);
     border-radius:30px;
@@ -12,7 +15,7 @@
 .villan{
     border-radius:30px;
     background-color:#795C34;
-    padding:7px;
+    padding:25px;
 }
 .temp{
     padding:15px;
@@ -173,9 +176,9 @@ button{
 	transition: .4s; 
 }
 button:hover{
-	background-color: white;
+	background-color: black;
 	border: 2px solid maroon;
-    color: black;
+    color: white;
 	cursor: pointer;
 }
 
