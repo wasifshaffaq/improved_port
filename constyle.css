@@ -246,7 +246,7 @@ h3.global-title {
   .map-content form textarea:focus {
     outline: none;
     border: 2px solid #051b35;
-    background: #fff;
+    background: #28282B;
     box-shadow: none;
   }
 
